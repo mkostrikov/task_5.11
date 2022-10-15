@@ -8,4 +8,4 @@
 
 ### GitHub Pages
 
-[Ссылка на проект](https://mkostrikov.github.io/task_5.11/)
+[Ссылка на проект](https://mkostrikov.github.io/task_5.11/){:target="_blank"}
